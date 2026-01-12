@@ -109,7 +109,7 @@ Integration with modern AI frameworks
 
 📬 Connect
 
-GitHub: https://github.com/Shadan-Anwar/python_for_ai
+GitHub: https://github.com/Shadan-Anwar
 
 📝 Note
 
