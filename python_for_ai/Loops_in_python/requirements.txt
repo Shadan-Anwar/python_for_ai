@@ -1,0 +1,4 @@
+# No external dependencies.
+# This project uses only Python standard library.
+## Python Version
+- Python 3.9+
