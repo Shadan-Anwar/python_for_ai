@@ -1,5 +1,4 @@
 
-
 # Python OOP Methods – Instance, Class & Static Methods
 
 **Author: ** Shadan Anwar
